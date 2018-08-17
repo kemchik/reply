@@ -1,7 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="375d508e-dcf1-46ea-96b2-d04c1b4c7e6b" name="Default Changelist" comment="" />
+    <list default="true" id="375d508e-dcf1-46ea-96b2-d04c1b4c7e6b" name="Default Changelist" comment="start">
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/semantic/semantic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/semantic/semantic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/stoppoint.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/stoppoints.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/00/15/ce5082ac30bd50df32ef234ea131404b71d3cdbd21921b91f962f3f3d07e40ef323a821938958a5a725de209ead1990cd0615472735ecb408f31bb1684c1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/00/d5/0ea6c481a13d972630ea2a743176bb5d7c08586d15415abd4d97add9fe1e155d18a8884752605652601eb1520aedcdf5caef696c46bbf97cae25cd7d49a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/02/6d/71dd7045e3e297b854c22b419fe2ac411d997e185877e79a6494c7643113ff664891056ba7a0bb1b02cb1c80467a0390be1d08635541b1b3d8592e7b3345" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/03/92/e47b23df888df7e874f9a02412dda998baa5ec6000e6e35f61863459d7c318b6b435c1bca926a5257a136e0ac29b461b029faf838feecfe5cc724760628a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/06/05/ccd7ddc8be9e0e57acb151d00e44fd585b30d1a24dc93c4d3ff9e32175e7afb98f8b002683ba4413381cf10d924b53c83d7e1188b73523b0c0535970d5d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/07/20/915cca74ccffcd3379ebc44e23cec588f439d6b2b8a2ed7835d48dac9e5f2a960c4d3dcb9b622579cec61517c37397f8c8f54317c7376e14b59e637b3125" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/0b/60/9016c60a290cc607c8cc2419d5a095bf2ff6d593ce409c0d21998a4afbc979b3fb04cc307aa3ae4ff363400836fba9ae6763ff2125cc54805492dc6da6e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/12/05/411346b7a99f3d89314411085ba59d87e7788343e958420674f1bcb106c9dab90fff5c352546519bf7c31096362791d6b28326140fcb88b9767a1eb53106" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/12/f8/e5bd24f07ec3a2125f072191005b342009464272b8fc02340ac5a5d14ac311d1a1ec757e43be3eedea7e476cf4174a1d0b6dca7baf1354d8db02cf3dba4d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/1e/89/9342a41a230a64b226eb1499197e8a885f33edbfbae6ec6e5714399f29d3e51a78d5b0de63be242fcfd1327c9789de2da83079d735ba44fd7681ba9e5676" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/1f/81/4240887a05eafb439002a550e99811caa29ff1f60ca95caf947fd352d5ff24041751b25218d165ad8256105ff76a493ba658ec451700f1a0de2ed0e2c32a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/26/41/8aeb828d36f7a4a74036e0f74c43d63af3871f27c0bd5c2a391ec7c27a942bc748f66b533d8634578c6799478f11086f4d4de71a3a7b9bc2734d88183ad0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/27/23/cb4b16451fb298f1346421c6e5429fa0a23168934d3354b7efabde6212bf177178ad33900308b2671998df63071bd4e55fcc844603e1709e177929d917a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/27/d8/1c839fca2f5dca653264430e979f919b90df4582925b99eafcbd8133000f68cf97ae1a7f85bcbffec704f8d18eb50e14b47ed808618c3c93272385aa7f3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/29/8c/1356af85bf8eedf7d366645753646572373bd8e81e8a877893363a8d396b0631f129cf5ac7b260baf4290ad2ac21c83c59368eb3a9bf8c802d87e47e295c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/2b/b1/49a005c071fda39ba89245476d3e55406d53895408c1865093571fb1bc161db82648b114fda31ca86a77db59eb50239cc470e3de65161b4f96be4ac48a96" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/30/1f/1f6920cfc5cad4c12d2e3c3ddfa28057fdb282d2e22ba7d57847721648f53407d73b2fcc3cb473c9854d32819da9de9dc9eb023fbeca572ee9dba653fef7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/31/e8/0d9a6333c1d5861078068b8c92821dafd58fd4951037306b77500a51de31c3aa3ebf52f6bf7876a24b5df863997fc356954a199559c7a13386e052501219" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/38/53/59fa1e3b18473f6477140ccb228a9b00887ec748995cc9114463b48b96127504d7a06bdeeec7232e62390d2ea225450a58c4a48a6415a207dd2641259520" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/3a/c1/b11e13303bc3e84d03bec39147dd8c5951246585a59ac2a66f7bcab1bf04fa9e41988dc99a50cb23af0648d8b530e73370461596dc763de5df35b90197d7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/3d/a2/2d9a9b68f67b3c0b081c46e37bb7512374a2565ed8db80d1ba37dba9fae377b54205c01ed23050d61b8ba028125fa7f4e304643cf089a9a06be2b257398e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/3e/c6/569ea42274d1cd6cee73cd9649ffbb08319c9e01d0c27bdfcfb7b92b2c7e5f3674b02655c5ac075c0560dcb3118e7cf0fa94e32a9840700e1a478635656b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/44/3b/864bd490fd339c867a9ffb77ec9563d636d3ae316b685943565a03f86e0c30456389740df7982e3b03dc2609a685014d23377d1b5f19cda3f86e27d53819" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/46/d8/a899a8cdce85aa31f3c03f3fcf68b9538347e6e3150f1dac11960d704e46636806450630efab2ece6ce0a6be8dd96ae8afd0fe26abbacaff8f577d3b7598" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/47/56/c7f6f29b16ed8be88519faaa7ae1d75de0a14d9a1a38ec38501eb7b5de463fd1e913f6c4c517bcedcb5b72a141f24d49cfeeab7fe7cbc3a13b440fbf714a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/48/cf/ffbabcece9f533d446ab972b9ae5a0a806c13c4190c8eee665a7877de474456f7602fd85799d84f567045ce060b6a857005807b2f8062be1a09b9f1c94ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/56/ab/aeb6bb1a4ec787c507e7043a0e1250e23db7fd7ce8ec0e6560c0f7c813ca93a4f0e2251893a09014d53dedd0151d49e3d649a13af67024a55dc1970884a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/5a/d1/4bcebf28e7810c0a0cf1954e6b26308216eb5e8c5fcc5654921439e567ef83e0c501f03997d6d9187229a636b8a9be5b312e65ddba6c52de63a9e512f7c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/5c/93/c6239584178d20bad9cf30fa62415a24de3056cc80c01e766d6020d4029fa0feccbf64098b4a2bcdbece1502b462ac3e0dfdefbeef657f172bb65f3801b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/62/04/a587ead3192cf5f9a0c776b024de796ee778d4c8ee2b5eb43b24af1be9818cb42e2bbf8c40d624949a0cff2880b95a2ab05fb7836ac5acf86b04fc14d905" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/64/52/5d2b4edf318c4a375dd996754e2d4daf76a6438a96feb42e2b83effd1642ec4eceb88af556b4a75d71ef9c25321281eef381cf4a0590ae3eba8bf7ed2676" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/65/5f/fbe5c2e670e64468e211b6448ad6b9f76625ed182a6d228522a0cfad0c98218ccbfdf81961c7c97ee882272a6f018b155b39edcdc9b59d0c61c76aab9961" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/66/4e/f3bd17412498415f7b5d9c9ecb07e0311ad5c392115925245dad98c12abc1115d750ff9fb1a1390ae42f5c6a9bbc5fb27adebad30117775caf3eb5637f3e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/69/74/e5cd17bbd66a2079ff3b08801f03fd5be7898010bd9187304dcaa3713a044bfa4ffb4fc63d08142436a10250fb0cc953b5331a5a26b8861d6920748b0536" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/6b/7b/d0492492a9608cce59df52dfd0d7de6f749adb97bc1332b0ea16066cf4882ae1bf744eae744d6bcfff5835d1bfd82a6fb9911abd99a67a173ecfcd09ef39" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/6c/f8/a150dcb8e9c492f1bd34489b9f90032dbf2eedc52593b4cf32d165ca6f12a339b6156c1da92430dd88770de70ef506fd2fb05894afc8303e1369782c4d63" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/6d/e0/b1de98b091d7381fd432d1cfe37a3cadc3b5e504ac65c56b1bbc7db25767a25e1aa911c9c5573741d8668145a6419b07c35565098a9e16b4197988fe7156" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/6e/05/d366b0d22cf89297c54070164d912bef91712c2324019d3437dd3b74cf9999da2eab12287c5124767f0cf12445a98fe9d6442a2f7b2f744f177580dae8aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/6e/a3/1b5a46c59c5da9d14ee4b9cb83706d2dd1228b0c1802559719840324439e8f01f69d1a416b66ab7ba959261a15511698401324d7a8611e09aeabfaac0009" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/72/7e/3908332d40503a2bcd6e00fa43e9f6d00b19f8d545f547531e96edcefd882a82de706750560b4416775fdfcecdbd1c68070e08dea5be29d44ef1d565d464" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/72/88/1a368f51caa3c636acf91f3732397129de62ecf50f345b35f923db7584ee085ff0853fd819c4876c995a11166036339c37fdc2ef55dbd6d35e4d2a2778df" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/74/93/bda1b79ae6efcaec704f31db60a89116a5a2cc5d9ef9027f2ef341bd06dc23e9233f8873926d9932c82dc8d55b46b7c0ed60bd616cf9ea5fbac04510f121" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/75/86/c2dfe6308784621ed547a9b7f25f50436234a9d26d1451ca822eb714d44c8d87b0d204248e62a34b0342d9b08576988bc6ea2de0be760cdc775a0bdbffaf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/75/a1/4d6a02c9710d113108e7ed62840a557f3f1ecd4e7009b5eee81c8ba99cf2c01f8133ddd3384d8e8d2a888b3862fac3b43d43c06fb597c6371e37aa8b5b24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/78/8d/2664ba55bde72cc25f52bbd9a2d972703686c597dbda0ff956fe8e3822db0463fb6f7bd50dfe65ed260b5c63d27609192e8067e29aba1e80534e8a0e7ced" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/79/68/dc319f6bc374f15361e7d44aaeaf282971f24539f1475f91d2a5aa28474ba7e12b2cf97fde6af89524c05782e879406ddb4e233cfa7b40a3aba71f2a90cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/7a/34/8ea7ef26180c7f7072c3042841f2d60fa3e457e0ad164bb5f0c9fcf5e75aabf3f79d17adeeeab061f7bc013eb18e0499b349025ad6d10a3eaeda2d2bba98" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/83/e8/ff313e361988dac98060814f9940bde9d6091561e2af3065699da4e44f421034cbb53e7994a99bc8c105017858432689963719696929f4334cfa99525b2b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/85/3a/8cc6f2e604782ba85413ca4ecca2195d2b54f45b16107c7798ecb360d53316a23b0d1a3be11f6d1dfb444ffa99e0a41387cbf1ac5cfe72921c8f76a36bdd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/87/ec/9cef3a4a3c97b627a2e8a07efb996acf6a1177b330208fafcf4688c179f28bb09e8ebe602f11ef5d9d7f6605b9a4b01a2c6836531a5875d17e2579790b9c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/8a/3f/56a1a579a669175277bcb1dcc4d90a0bc46691da9d44e0dcaf45969f52b1b761ccfced05c717f2acad50a3f2069e375c5dee98fc531a301920f216f58cf5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/8d/a9/efe419b3312debc63ac1f31071d5add39445d391e94eed5504e5ac0670cce30c02d1f136012ae357f4c4147b51614cdaf23dc96cb8296921579bd79d5723" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/90/db/2654b2fb61821cd55461e923710eb960eddc9fd4d5808d7c5175de1801feaa50dc498dcc9143fe9a3ed2d35c389a55e606f31385818dfae0c9cfc08121d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/98/12/826758d7e8f735c7b8a064aa67c82c0089337b30b024c84cc54c680812a0a06b72d80e5010f30875e2c6e4a92ff604e53630f0a3c84a4e83e3f060ff53c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/9b/05/2838635c5184201548e2f247e63f639ab5e486424b896e13a8029174badf476753c5dfa114403c1b45f60db213d009e1ed7d09ae215a0a022fbfd4282cd4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/9c/ea/271eae917bf4cc8a262469ba08b079ab8f76bd70f2662ba1ec5ff20e4392a3e1d21aa49697423771ff74bc3ac0e39186f11ef3e40b5155a12aba8cc99971" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/9f/e6/b7b2292a223a7e341a6a5a8773080f334cbdc634d83b04e75a47d62139a3ba3c1b616be02975d2248b507e3eac868850c8d181ab42022ea7bdd495b1dbad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/a0/95/6eac9aa1c3299a08b5a3702fd9f31290ffeb5475c815ff05a0cd2d98d03575f4328ff163e89544ec366fa63374f9a9b37a28444eaadb1a3e01d0b3c8383a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/a0/da/40c84eb1cc2afcfa0e52eb9bae945cf78bcd5a4fb1736c9b7a67682f08d33d378bd8c4203a2961b8a99cecca9266a2c211e48f52d51937983318313457ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/a3/6b/e1af2d2b89a6a400ccbc672749b5965f34269f0753026052e714387d12e1baca95289b2b6d472252b40590556269830a4a8099fa0e2e1d0eac9a3931e904" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/a3/dd/024b5732dae65c1d18552f90b9daf8b155deab3d77e1dbeecb8521ff152feb35e7f61af431b9b3bd64de6d40e879e0874e4c61bc2daae67894b77c76d0ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/a8/2c/961dfcc9a2228506e72e0624bc61d924d18956687a18ae57bdb6c986f062650fedf265d6d8e4df3229bcc8229568d4d3d0b9e6b5771b5ffbd37b175021c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/b2/55/c7b75bae34596952077fbcecdbde767676431612ad8772541b4a501630dadb1693f09648f1324c817ce410c24da441656e703a0739a8d6aa8da549099399" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/b2/ca/e10358456fe0ee47de92d8853c4285406a979e8b1235c1c7997fb2fe3a9bf97ea43a56fda61053e834bfccbecf8e4dc784ad71e1eff104ff16982569e6bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/b3/4e/83163c279cc87f95fe4c8340ee73369fe5304602b7eec25a7f5d2d4f35664c8f8541593ba042fcf3d52388956167eb3c62352dca6d92afe241f1ebb0ac6d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/b4/6a/3b92996b8d8ffad0a9e3f40dbda1f947fb3d6e96a18d55683b27d0be1695a5b6eaa132af4dde2c89618a233c9b514c1d641fdf11ca95ed89cdd5e7c5ebb0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/b5/22/dfb5350d6cd95f1289e5f31d44ba8e5a59d4aa8688cf16383b7738132b023cd8b5cf0a63dd2f72bd0110a6ac64f7082354999a673669a7d62f13f3fd211e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/b6/47/008449d7dff62bf7067024012a0d729b8d247cdb55bf1b22690c1f9166fa67db94288f85f7942fa9e3c6eae71afe3f4058a5f7a11dd3b1bdbbbf2a8d7603" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/b8/9d/dcbe37364220626b08cc51727c7154f31f09b966e8ddd7aef4889632fdcaf70f4acfe2f2f2a1d5101ef010f17bcffec2a0387c8f8acda8bd626759c42d75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/b9/5e/87372d6acf8ebdc2db1f2a6b4733d3f356691315c07c8e289fc88bee23750db0a111e7ed35a324b651fecacad96e5a42f90dabce7a94bf61bac303f25694" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/bb/15/f28e4ef2c0da3b2eb937dea3f2fd561abd4b1479895598e2a91199e955afb7359e43a9bd8edcd987146065c34c3b013023a3780279d22f8d41d9aa371a33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/bf/f4/117cd11e7e1ad5e3a896ba41545ec2daf2a46ea253dd973bef5204cba1a46942b4d1eb61cd7d4dfa7f302e50c678bbe00f0e5eba54fb9df7f16a0c975a46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/c7/22/79da3504edab589df1e048e9d9cb80ee0f9e875167fc0450afc79860af0e8a737a8595859c112d38bd2c87af5853baf95356ac3ef8d2f1252b3a3b9d2c93" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/cd/95/7b7a484de772aaf9801f8d7728566856c64663297657d210f1d7c963ac9276f33c31d059523a07a73d3c4c75173977ed72e5cbcda0e15e5c947b766d844a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/cd/f4/4731675b57843c4c1dd1af55ee717b6f2c3ac67e37e3dc3b6e9912d8c1ce25c9b14a9677bbb4b43b5cae9077bb09a8360a31875741862a3dffc8bdde9cec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/ce/a0/05693c9977025e70fd8ae2c5d65416e0cafb0c2c8be4d8e218540542544ebcb8f6a394493c158abf4fa384af9b7897c14bf57ba108454c73dfe8063919fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/d5/b4/6b919075dfb035a0141ff8cc92204dcabf9b4dfaa807d61109d5b7efe57d2914bd5d0096184103574259840626a6eedfb5eb3e6b7f85da6dd6f76602600c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/d8/f6/f1c83141b5af5fc6dfe035a118b17948cb6cf45789c9a93776eb3e43eb1e6e4c32e3d875a38227de056a33d462b9b3732c3d2e31846bdc720a8b86409581" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/da/41/075a7413f171e49ab626cb9bf1d3f62a20e49f1afeeaa8f3080d1ae069a206f2d58963cfbbca3f29e4072488c7de14189eab4b020bad96832af85be6c6dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/db/7b/afd5411fd1cbb462c53c12375c20d7ac4cf2e6e6887c3b3b96c1907ba649eeceae9b5fef7b47af40c11b74652e595fb2919e08170313410252cc205fa330" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/db/d4/cec6bbc07c483ad6f69e74674a15b18887af3303233b4ef0e98ff77b9e3bd58e1dbb7b5957a6aa784ccfb845ee4205c6205a8da58e9d2d49b7423078bd88" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/e3/4f/725bc5c7c354613420ba092cbefc06f0c205f1d5adb82934ceee79d543b505800d808fd1e86c47972219f72f673e62f3c880455a90836f7ca78b5b800538" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/ea/39/7711b52863b52f5d5e3c8750cf2fbb66683bdd7932e86894ac95c02aaccc72389b28cf90f1f3551f150ffab2ed458da3da8559b9f4fbcab6006b34ad5ddd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/eb/2d/09065ad6e4b67c40d900233fe62467e6ebd2142501d4897233cd70a7669371f6d76f111e4661d794524a4ce8e9557091d03f65158a7b04819099ee75206f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/eb/dc/beac6fff8a5a9a69778d0d11924d470b60fc875c9c8c01e57b753799acbd378699d4934fd684896b325744ab9f453105df94403b22589741049a07fac7f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/eb/e9/9f2c13689ad268cc673276c6a31dddce383dcf02d4a8429744ac1c5a0c28a5c60174cdf1fa01d77a8cf0e4bc6d1ffd099a15e8ec1fad5c2178614b222644" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/ef/54/f7200cd83f85721f8bed011fd2da8d08cd553c8b5513f7ab116ce5254c058c401c846e9b0240fa3a5b0bc8f3c8664f317e7a54cfb64f480644b81e443cc9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/f5/dc/b2496d0504898ba29812f4641e9ca9a4d0c73ab642a03ffe2e6a4c106b5b9a9c78c6d3c5ed217f63d1e084d06ec3c185b495ae2cb272fb77fc7d0cdab65a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/f7/4a/70d71a8f93728d441edc98805316daddfbd52d9e4b9efaa02327a070c39a7bd0b7f4fddb7255951eeb34e2e4f81072f66f00071cc1e72c8dbf5e0c92763d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/fb/ab/7723a07dd32276e2a9fdbe38c6350e50ee163f7cd2549826b969975dea18a593139e96c49f0b0c2411ccaabe39d4817b753d99a49171f7850f5397ee840e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/fd/c8/1a46f17c8733741e9a034161cdaa5a2d87df3a98ab6a40588d0f0664fa3dae8cffec53183a13fab842eb2b17db6298014caffc2a8a1c6dab5dcf2a192f95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/fe/68/c768a08432fdaa23a3302cd430a0d3281b01ea263be083d024668d2ff417ad9f2a13a722283eba20ce97e959e852b02e29d2e2f39c619cef7298f3b93706" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/ff/8a/00df412347afc3aaf1ca6a2689daf66d0374f777462589da5d48a643afcf36a29f0e1a81f333e4dac496d610948eecbc6b1d44255852c4fda8b363858046" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/04/4d/2a67d9e12991c4b07406816acf8ecbee7f815e5613946214b6f2f61811d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/14/b7/1e0de0cc1b9d7979ac3320b65f7d67a18698f9a48f5fa57c538bbad2f157" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/17/88/9344833bec9a165f8e81e8869dcc2a681bb4db43d594295c0a7195a11e20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/17/c6/caa86dbe46bbe5a60aca240b7e0d458ef33711c917fdfe08f5e8a782aba0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/1a/18/ba310b914e79de3836e106d0d2f49b1340bb4797167112f61cad80139cc0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/1a/61/339a5b89e669ea5bf523697d954815ffbde4707bd1f3b369811038a81658" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/1c/ef/04afaa05238eeffd0be3153b89c565e854125463c91a087baafdc5530c43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/1f/61/830169bff4f081b611a7ffdeced531e76bd26b618c830905bad4538d5b76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/21/2a/02da0cf6ace3c33d351b3ea96927fbb5784b7bac9049d612423f06bab7ca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/23/98/4c2fa112cfec5be679dc8b67a0389ce155cd2838598e0f3da33d8f6f0471" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/23/c7/17e69232de367a01c3d9a1204f45fcd4fe3090085f82e8117a91abcc0ce0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/28/33/a6c769b0a89f8cbc456c60da2eaaf864c12111231038d8787f3dc5c44787" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/28/73/9d89effdc98193082386cabe1dc806296589a30785b62e7eab61a2c0bfd7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/29/20/7098e4909e8ca0711b77b12984531c74da8546c4b2e4bc2144ccda9dba6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/29/b5/dd40ab95c90bc5a54e0589d8028add33ce1d1d41089159b23ab87f8e26d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/2b/eb/3470643c2f749f0090542704fa531d9165793b73cbb50301aff2f94a3bfb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/2c/93/be173ffd3a0698115e01acdeb9f07069cd27af05f9dce813e3376b28195e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/38/d8/4a404dac3c1e35d7b37dd197a12e439aa6ee1356722efd297d3297b5625a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/3d/f9/960c33332b052eff53b41bac91526223f0dd6d1b44b1f4040ef93bccc0ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/3e/73/ee6694ed0f06f54a468026bb645f859afda0547292cb61f130f3d6da7713" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/40/5a/333d82c8a241971bde537ea94a31d92fec6bbeb20fe7800d6450201c5b60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/41/b8/eb18926db4d4f5a9be0402c52aa1900d3014d87a274706d920a68b693538" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/42/eb/45a539e94b383c2f956657ac095fc433f5d50e02961eef4be1b371698909" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/44/25/4867aabab8ac0dfa6519595aa652365cbad1c0c549d1a42708ff3de12a7e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/44/2e/3bf07053bb1443f58c07f0b087ca8441c9c13ab9fd4e8a5d75ccc75808b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/47/5a/4dce05dea53a083b16308e43c04ec75178e7e3b4e1902cc2e9e12ccc2eee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/4a/64/2af64c4b73bf606a298e4c27acd911dd207e89f6f45ebf8ccf5005e6ebbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/4b/cf/c52063df6fb23ee0dd70765db694bd1728862e7a7b2424bd7dec1335cb5a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/4e/ef/4341edd9d201e1f6286ae202d8ad4a0b5b3431063365f7bbf8d9329f4638" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/50/e2/22f4e37c2e18dd1db2e1f71a7f7f2e878aa92f917381fb5e3665684d9ca8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/53/37/a54a1ee1ed61429a5549cad33a2f107a05e77fef4af653a274806f5654e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/53/b5/0139875a6c803dd8b8f64c192331708c94d0472c8e22c56935b9e62034bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/54/e0/44dde13637f5c1efbff3db7dcec5abb22f26d980ca57bce150093c1e348f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/55/1d/51fd6f4710a3106deb989741efebcfe4bc9ef0354af452e59d5b5c4d6dd0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/58/f0/c7221f6ce809981269029e4b253d3950bc6318c668d71968a2b4f2bd983e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/5a/3f/58ce1996adaf47c149bb347af7b2a1dec5188a22e0214f4a9fde2ab28484" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/62/76/684677ee26ddaf1579db85c4e6e5a1171f4f6c066fa97a12f3606d9d0b67" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/64/9a/963d3a866de02bbcb13a61d1f9891e7c7dce6f15f11b931c15e3292fdb9f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/68/ab/daa3df2d1a397cde7e0c1840f928b00cbb1832cc404d0af6effb136b4991" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/69/b8/c1fb40d7e0c13bfeee9fa4a37d21517467fb6b5018c372399bfb87979f30" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/6a/03/fc0645d16ddf59c6b6364e503c2f90482b71e0c2caa4edc7a0fa49371513" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/6a/5c/a482e743eab105837ec0a0e4de479e25a3bcb86e3ee44a7fa5981585f2af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/70/45/83959e0ac0604a892cb178a497a68e54344d03f71dab6ed4eba1284ab756" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/70/f4/9d09cc6425313a9b60cab6ad4058d7197f15ce7a8394c7b1eccd6d03dfb6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/78/07/847850dabd191af0b58a1ead861bb6a41d3f23367935d59004a032f2b467" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/7d/22/1878f8c7b29275d444468146648c7d29be509bd2e72627418e5e2427609d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/82/82/cc19282562ab45b40ab81bafc1dba8189c9b6b96945573f670705a563d72" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/85/ed/535738981d8b45638ff38b7bc661c80965841a966aeb230e4ca1e9ad91a8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/87/a1/4f0f4c39721d9868c7a60121f6f9e702d2aa0aa414328a299ff441320ce9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/8c/db/59fa756c4d9d28fe4b547cfab4fab392d4e2948ab81cb5abcc866fa43efe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/8d/fe/3bc5cdfd52c933cf3f5d73cc5480098f6fbd7519424d39748d7cc62ade34" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/91/72/f3d55bbcea70369174af93e63834be33376881a253d588b0353e75c25f29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/92/9b/5ee690e7df17b430f2ba2ec225656a92b867a1f7a667cab4873191c5ed47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/9b/78/e1eb0417367c463b625d3f12c31fbccb3af5bd2aa4bb3a8f7d1cddabab4f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/9f/18/90aeedda865a2280274b253a7daa654aaf60240b99395a66203ab5405364" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/a0/07/841f1925337c854bd3247b7ef918a0f7505a25dd08a1bf14da90ee4744e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/a2/2e/3d306b16556d013c7794faa0159587100e199df7e4e17caba491cc233ff4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/a6/8f/d74ba51a1a7a483b47ec26b3b56b9512de74a0305200dcd32a45ed2e8509" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/ac/c5/ae471f2f79fb8d3c8252fc8c7ea96a093c19cd19bef1ea510a9b15c10550" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/ad/58/256b341bfd5980324a4f976e170befba7e3fbccf31c77fd0a91b86e747ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/ad/90/1da29428b4ea6fcc934d95c0e574af16f3dfbfd1bd4d182ee2ca56a59bd4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/ae/50/e4f5ed90e6b94e9f0a877d499b50ccf056713f023f66a3d0a837021ab58a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/af/61/1b3f554680efbfe62669a5fbe4334bea8dfc552f347e1861836811798bae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/b4/a5/fa13285aaa9a18e5b0c1ee03a485f4836c0eaffde6818bfb56227d24f207" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/b5/42/6a1f375bc0a56334701612988585a238cb7693245a73b647aa8cf8921eed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/b5/55/da76cee3c9475532cca91beb7857ef0d338bb7e5ee3a762df6530b8f29cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/bb/e6/69e31719075bb9bf370175ec0d8f1eac85741ecfc165bb595bb73e8857e1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/bc/67/23353500007d279b7eb90fb41313a324291709cb2f254305e8d6ad7144d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/bf/b7/323d9f1fb8d880a14af6d4c1c0933166fbd18be97c3a8d757344a5a7976a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/c1/7d/41d3484fe337340f4ea1cb9004892082ecc1a35972a96500dcdfd7559e35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/c1/c2/a97c7af827243f8088d9bb9cc352503c2fd16482b3b112c49d6ea098c82e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/c9/10/30e9daeff6bf32b54e9f5102fa9a58ce7fe920ecea10eefad07007941e69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/c9/6e/49b677de779909d8674e0ae624f44300390598744ba7b7154228f3ce2885" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/cb/72/551d696daf59d9b346b63a3db8e729285a9b93e9f3ca7f2b86bb0d439785" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/d0/0d/bf62ad70f0ea58d17c87cf0efdbf4de554269f905a251bdcd9a3bc7fb949" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/d1/3c/40811b25e391ebb9ff21946f428868757853ae0d1c372ea237c4436cff1e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/d3/f6/78736ed20f543d5b09c3a03f2f1b556393577c59dee7ebfcae94e8c01aa8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/d4/95/37e11ce23d8ad0467977d64d0d3d0619dd023e385ab3dcffd14ab56f9e8c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/d4/ff/3bcf1d11dce8ba846671d138b9c4ab51bd3ce1f558f64d134d06a08695a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/d5/0a/a62de0c71f04ed9c3a45107db586d35d1ed2d810e6e4bc30625c78e95934" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/d7/ff/b5a03e921a6cd8ead7de80c9dbf8662925057301f71e49a0cb765f021e52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/da/ae/8430f33cba9471bde18c3cd561656cf524c272a32bfeccc1c5381f84799f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/dc/3c/76838c3824db2711625223c2c970432367edfdf0142db895278eef4c9514" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/e0/26/6bf548438d73266f6a119e3b932a15f274ee57d496ba87cbf3cf0975deca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/e1/f0/5a399ee2152be13a6cbcb80f8082c6c5a87f28db0597193fb0de264eb32b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/e2/16/e7085bd7199f3b3acff2dffd273ed2bcf9d2b7d847745d6f58fbde120242" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/e5/43/8aeebc30896f9fc138ff83691d700ae6af33b1a9758716920e205487dfa9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/e5/82/369a09c479790afe81dbd42efbc1d8baa7382b0d6f1e7bdc000a2d1578bf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/e5/d1/7859a06f0548dae0cd3eeea93b1fcf9c60748e3bc0b563d3373c219f8d37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/e9/04/33dcdea19e90811f85356c8e8835b5cd6845fd3595c4cd7c1c314a7d5b49" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/eb/cd/d489fd8f4e5c683e2c0806740f5489e866a44fe1c88c66f3214fea2fedae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/eb/f9/72adc4ae6b63620239fbaae262380893ef6987138e49763cf3439356ba42" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/f4/3f/b77c703084798fd01e9c1104951a5f331032a05147343e0c2f1f5a4ee649" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/f4/a3/23cae52ff84b51471b35c3ca9b61e0cf96ff5de3f2720072f4194a836c31" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/f5/4d/1618d0dcb13fd52776057acc46ac4bac3aa6e59e1b17edf8fe0d99feb4a8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/f6/06/f7bda8bfc1c05550fe093db5c11a085e74c88a1035381df1ded534c5784f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/f6/db/394c1d877cbe77eca3d2af99fd42cee1f56e3f9273e912c2618f9b6a6ed9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/fa/30/b7af3b36d5d5455699799f9bc3f5fce0da0f15c9236fa73d4d0680392753" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/fe/4c/9bfe5ed78f4fd56cce8261e6d77d3759e83daad5652b95b83aaec85d0819" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/fe/dc/15b42e5b1314810d03b590561a807bec32238b0ade3482c3b5d05038f5c6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/fe/e5/3b82ca7b9d7af70a305360d8ee4818ac8b65f91af2c7711d0f8393397d36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/LICENSE-GPL-2.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/LICENSE-MIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/dist/foo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/dist/foo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/foo.jquery.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/libs/jquery-loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/libs/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/libs/qunit/qunit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/libs/qunit/qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/src/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/src/foo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/test/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/test/foo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery-plugin/test/foo_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,30 +249,36 @@
         <counts>
           <entry key="css" value="1" />
           <entry key="html" value="1" />
-          <entry key="js" value="3" />
-          <entry key="json" value="1" />
+          <entry key="js" value="5" />
+          <entry key="json" value="2" />
+          <entry key="jsx" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
           <entry key="HTML" value="1" />
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="3" />
+          <entry key="JSON" value="2" />
+          <entry key="JSX Harmony" value="2" />
+          <entry key="JavaScript" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="110" />
-          <entry key="js" value="8" />
+          <entry key="html" value="252" />
+          <entry key="js" value="12" />
           <entry key="json" value="11" />
+          <entry key="jsx" value="3329" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="110" />
+          <entry key="HTML" value="252" />
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="8" />
+          <entry key="JSX Harmony" value="3329" />
+          <entry key="JavaScript" value="12" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -56,30 +288,60 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="82">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <folding>
+                <element signature="e#13#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.js">
+        <entry file="file://$PROJECT_DIR$/components/stoppoints.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="184">
+              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/stoppoint.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/components/stoppoint.jsx" />
+        <option value="$PROJECT_DIR$/app.jsx" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/components/stoppoints.jsx" />
       </list>
     </option>
   </component>
@@ -103,6 +365,7 @@
     <option name="width" value="1346" />
     <option name="height" value="704" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -114,6 +377,27 @@
             <path>
               <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reply" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="semantic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,24 +435,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534415744029</updated>
-      <workItem from="1534415745888" duration="637000" />
+      <workItem from="1534415745888" duration="31060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="637000" />
+    <option name="totallyTimeSpent" value="31060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="CSS-X-Fire" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3364486" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -192,31 +476,58 @@
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="184">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="335">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/stoppoint.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="82">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/app.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="253">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#13#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/stoppoints.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
