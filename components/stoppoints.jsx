@@ -2,6 +2,7 @@ import React from 'react';
 import $ from 'jquery';
 import jQuery from 'jquery';
 window.$ = jQuery;
+import StopPoint from './stoppoint.jsx'
 
 class StopPoints extends React.Component{
 
@@ -21,6 +22,7 @@ class StopPoints extends React.Component{
         const busNumberFromInp = $('#busNumber').val();
         const api = `https://api.tfl.gov.uk/line/${busNumberFromInp}/route/sequence/outbound`;
         let stopPoints = '';
+        let direction = '';
 
          $.ajax({
              type: 'GET',
@@ -30,24 +32,29 @@ class StopPoints extends React.Component{
          });
 
          function dataLoaded(data) {
-             stopPoints = data;
+             stopPoints = data.stopPointSequences[0].stopPoint;
+             direction = data.orderedLineRoutes[0].name
          }
 
          this.setState({
-             stopPoints: stopPoints.stopPointSequences[0].stopPoint,
-             direction: stopPoints.orderedLineRoutes[0].name,
+             stopPoints: stopPoints.map((item) => {
+                 return <StopPoint params = {item}/>
+             }),
+             direction: direction,
              chose: true
          });
     }
 
     componentDidMount() {
-        $('#forSendBusNumber').bind('click', this.choiceBus);
+        $('#forSendBusNumber').bind('click', this.choiceBus)
     };
 
     render(){
+
            return (
-               <div className="ui secondary vertical pointing menu" id="listofproducts">
-                   {this.state.direction}
+               <div className="ui secondary vertical pointing menu">
+                   <h1>{this.state.direction}</h1>
+                   {this.state.stopPoints}
                 </div>
         )
     }
