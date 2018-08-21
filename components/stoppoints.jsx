@@ -3,6 +3,7 @@ import $ from 'jquery';
 import jQuery from 'jquery';
 window.$ = jQuery;
 import StopPoint from './stoppoint.jsx'
+import Map from './map.jsx'
 
 class StopPoints extends React.Component{
 
@@ -11,18 +12,27 @@ class StopPoints extends React.Component{
 
         this.state = {
             stopPoints: '',
-            direction: '',
+            directionName: 'Choose a bus',
+            pointWithId: '',
             chose: false
         };
 
+        this.busNumberFromInp = '';
+        this.direction = 'outbound';
         this.choiceBus = this.choiceBus.bind(this);
+        this.changeDirection = this.changeDirection.bind(this);
+        this.getData = this.getData.bind(this);
     }
 
-     choiceBus(){
-        const busNumberFromInp = $('#busNumber').val();
-        const api = `https://api.tfl.gov.uk/line/${busNumberFromInp}/route/sequence/outbound`;
+    choiceBus() {
+        this.busNumberFromInp = $('#busNumber').val();
+        this.getData();
+    }
+
+    getData(){
+        const api = `https://api.tfl.gov.uk/line/${this.busNumberFromInp}/route/sequence/${this.direction}`;
         let stopPoints = '';
-        let direction = '';
+        let directionName = '';
 
          $.ajax({
              type: 'GET',
@@ -33,28 +43,46 @@ class StopPoints extends React.Component{
 
          function dataLoaded(data) {
              stopPoints = data.stopPointSequences[0].stopPoint;
-             direction = data.orderedLineRoutes[0].name
+             directionName = data.orderedLineRoutes[0].name
          }
 
          this.setState({
-             stopPoints: stopPoints.map((item) => {
-                 return <StopPoint params = {item}/>
-             }),
-             direction: direction,
+             stopPoints: stopPoints,
+             directionName: directionName.replace('&harr;', '-'),
              chose: true
          });
     }
 
+    changeDirection(){
+        if(this.direction === 'outbound'){
+            this.direction = 'inbound';
+        } else {
+            this.direction = 'outbound';
+        }
+
+        this.getData()
+    }
+
     componentDidMount() {
-        $('#forSendBusNumber').bind('click', this.choiceBus)
+        $('#forSendBusNumber').bind('click', this.choiceBus);
+        $('#changeDirection').bind('click', this.changeDirection);
     };
 
     render(){
-
            return (
-               <div className="ui secondary vertical pointing menu">
-                   <h1>{this.state.direction}</h1>
-                   {this.state.stopPoints}
+               <div className="points">
+                   <div id="pointing">
+                       <div>
+                           <h3>{this.state.directionName}</h3>
+                           <button id='changeDirection'></button>
+                           {Array.from(this.state.stopPoints).map((item) => {
+                               return (<StopPoint params = {item} bus={this.busNumberFromInp} direction = {this.state.direction}/>)
+                           })}
+                       </div>
+                   </div>
+                   <div>
+                       <Map params={this.state.stopPoints}/>
+                   </div>
                 </div>
         )
     }
