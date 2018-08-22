@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="375d508e-dcf1-46ea-96b2-d04c1b4c7e6b" name="Default Changelist" comment="show time">
-      <change beforePath="$PROJECT_DIR$/node_modules/accepts/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn-dynamic-import/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/urw-bookman-l-light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/semantic/semantic.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/semantic/semantic.min.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,7 +42,7 @@
           <entry key="js" value="5" />
           <entry key="json" value="2" />
           <entry key="jsx" value="10" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -51,27 +53,29 @@
           <entry key="JSON" value="2" />
           <entry key="JSX Harmony" value="9" />
           <entry key="JavaScript" value="5" />
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2088" />
+          <entry key="css" value="2101" />
           <entry key="html" value="432" />
           <entry key="js" value="12" />
           <entry key="json" value="11" />
           <entry key="jsx" value="10660" />
+          <entry key="md" value="1" />
           <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2088" />
+          <entry key="CSS" value="2101" />
           <entry key="HTML" value="432" />
           <entry key="JSON" value="11" />
           <entry key="JSX Harmony" value="9681" />
           <entry key="JavaScript" value="12" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="997" />
         </counts>
       </usages-collector>
@@ -79,11 +83,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -96,15 +100,6 @@
                 <caret column="17" selection-start-column="17" selection-end-column="17" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -126,7 +121,7 @@
         <entry file="file://$PROJECT_DIR$/components/map.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -137,7 +132,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/stoppoint.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
+            <state relative-caret-position="312">
               <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
               <folding>
                 <marker date="1534864944264" expanded="true" signature="786:996" ph="..." />
@@ -151,25 +146,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/2b/ac/0419255b23490efca5979aaa441b06ac2366e710b2fc1933da1cd51904404801720661ef52561dcc32439c7415e2be1b46d7076bb3b2f097f528896f548c">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/ec/ea/1483702415284056e6a0d587b5cf3ec4c65bdcef4f02fc8dd11a04b2f5d9">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6072">
-              <caret line="264" column="18" selection-start-line="264" selection-start-column="18" selection-end-line="264" selection-end-column="18" />
+            <state relative-caret-position="321">
+              <caret line="276" column="21" selection-start-line="276" selection-start-column="21" selection-end-line="276" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -200,9 +181,9 @@
         <option value="$PROJECT_DIR$/app.jsx" />
         <option value="$PROJECT_DIR$/components/map.jsx" />
         <option value="$PROJECT_DIR$/components/stoppoints.jsx" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/components/stoppoint.jsx" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -243,133 +224,7 @@
             <path>
               <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name=".cache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@mapbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@webassemblyjs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="accepts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="acorn-dynamic-import" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="acorn-jsx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ajv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ajv-keywords" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ansi-escapes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ansi-html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ansi-regex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="ansi-styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="anymatch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="aproba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="arr-diff" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="arr-flatten" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="arr-union" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="array-bounds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="array-find-index" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="array-flatten" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="array-includes" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -419,12 +274,12 @@
       <workItem from="1534798090276" duration="3322000" />
       <workItem from="1534834912799" duration="26208000" />
       <workItem from="1534867163925" duration="487000" />
-      <workItem from="1534918821403" duration="209000" />
+      <workItem from="1534918821403" duration="1327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122973000" />
+    <option name="totallyTimeSpent" value="123944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
@@ -443,7 +298,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.52803737" />
       <window_info anchor="bottom" id="CSS-X-Fire" order="9" weight="0.32866043" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3364486" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3364486" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -540,19 +395,9 @@
     <entry file="file://$PROJECT_DIR$/components/map.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/stoppoint.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-          <folding>
-            <marker date="1534864944264" expanded="true" signature="786:996" ph="..." />
           </folding>
         </state>
       </provider>
@@ -567,13 +412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6072">
-          <caret line="264" column="18" selection-start-line="264" selection-start-column="18" selection-end-line="264" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -598,7 +436,24 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/stoppoint.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+          <folding>
+            <marker date="1534864944264" expanded="true" signature="786:996" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="276" column="21" selection-start-line="276" selection-start-column="21" selection-end-line="276" selection-end-column="21" />
         </state>
       </provider>
     </entry>
