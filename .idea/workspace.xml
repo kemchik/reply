@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="375d508e-dcf1-46ea-96b2-d04c1b4c7e6b" name="Default Changelist" comment="show time">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/accepts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/acorn-dynamic-import/README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +24,9 @@
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -78,16 +79,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="299">
+              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -242,7 +243,133 @@
             <path>
               <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reply" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name=".cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@mapbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@webassemblyjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="accepts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="acorn-dynamic-import" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="acorn-jsx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ajv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ajv-keywords" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ansi-escapes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ansi-html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ansi-regex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ansi-styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="anymatch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="aproba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="arr-diff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="arr-flatten" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="arr-union" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="array-bounds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="array-find-index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="array-flatten" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reply" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reply" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="array-includes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,17 +419,18 @@
       <workItem from="1534798090276" duration="3322000" />
       <workItem from="1534834912799" duration="26208000" />
       <workItem from="1534867163925" duration="487000" />
+      <workItem from="1534918821403" duration="209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122617000" />
+    <option name="totallyTimeSpent" value="122973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -315,7 +443,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.52803737" />
       <window_info anchor="bottom" id="CSS-X-Fire" order="9" weight="0.32866043" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33800623" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3364486" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -391,13 +519,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/point.ico" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -463,6 +584,21 @@
             <caret column="17" selection-start-column="17" selection-end-column="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/arr-union/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
